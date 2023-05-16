@@ -1,0 +1,258 @@
+{
+    "Search":[
+       {
+          "Title":"Avatar",
+          "Year":"2009",
+          "imdbID":"tt0499549",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Avatar: The Way of Water",
+          "Year":"2022",
+          "imdbID":"tt1630029",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Avatar: The Last Airbender",
+          "Year":"2005–2008",
+          "imdbID":"tt0417299",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The King's Avatar",
+          "Year":"2019",
+          "imdbID":"tt10732794",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BOGMxZDc1N2ItODI3NS00MDIwLWJkYzAtMTgyMDZlN2FlNGYzXkEyXkFqcGdeQXVyMjQ0OTYxOTc@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The King's Avatar",
+          "Year":"2017–",
+          "imdbID":"tt6859260",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BZjIyMjE5ZDYtMTQxNC00NTEzLTgwYzYtMmM0NDg3OWFlYWM5XkEyXkFqcGdeQXVyNjMxNzQ2NTQ@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Avatar: The Last Airbender - The Legend of Aang",
+          "Year":"2006",
+          "imdbID":"tt0959552",
+          "Type":"game",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BNjUwNzA5Nzc4N15BMl5BanBnXkFtZTgwNjM1ODY4MDE@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Avatar: The Game",
+          "Year":"2009",
+          "imdbID":"tt1517155",
+          "Type":"game",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMTYxODI2OTI4MF5BMl5BanBnXkFtZTcwNjI1NzMwMw@@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Avatar: The Last Airbender - The Legend So Far",
+          "Year":"2005",
+          "imdbID":"tt1605838",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BZGQ1ZTNmNzItNGYyMC00MDk2LWJiZDAtZTkwZDFlNWJlYTVjXkEyXkFqcGdeQXVyODUxNDExNTg@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The King's Avatar: For the Glory",
+          "Year":"2019",
+          "imdbID":"tt10736726",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMzFkZTMzOGUtOGM3NS00YzI2LTllMjgtODk0NDhkNWRiMTMzXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Avatar: The Deep Dive -- A Special Edition of 20/20",
+          "Year":"2022",
+          "imdbID":"tt24529122",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BOTNkMzNlNmQtMWRlYS00MTExLWExNjgtODc0MGRjNjE1OGQwXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_SX300.jpg"
+       },
+       {
+        "Title":"Jurassic Shark",
+        "Year":"2012",
+        "imdbID":"tt2071491",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODI1ODAyODgtZDYzZS00ZTM2LTg5MzMtZjNjMDFjMzlkZGQ2XkEyXkFqcGdeQXVyMTg0MTI3Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Jurassic Games",
+        "Year":"2018",
+        "imdbID":"tt6710826",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZWJkMzE4ZTAtOTY1ZS00YmZjLWI2MzQtZTg4MzdiN2U4NmUyXkEyXkFqcGdeQXVyMTUwMzY1MDM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Jurassic City",
+        "Year":"2015",
+        "imdbID":"tt2905674",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjM1MzUyMTk5MV5BMl5BanBnXkFtZTgwOTc2NzA0NDE@._V1_SX300.jpg"
+     },
+     {
+     "Title":"Star Wars: Episode I - The Phantom Menace",
+     "Year":"1999",
+     "imdbID":"tt0120915",
+     "Type":"movie",
+     "Poster":"https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+     "Title":"Star Wars: Episode III - Revenge of the Sith",
+     "Year":"2005",
+     "imdbID":"tt0121766",
+     "Type":"movie",
+     "Poster":"https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg"
+  },
+  {
+     "Title":"Star Wars: Episode II - Attack of the Clones",
+     "Year":"2002",
+     "imdbID":"tt0121765",
+     "Type":"movie",
+     "Poster":"https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg"
+  },
+  {
+     "Title":"Rogue One: A Star Wars Story",
+     "Year":"2016",
+     "imdbID":"tt3748528",
+     "Type":"movie",
+     "Poster":"https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg"
+  },
+  {
+     "Title":"Star Wars: Episode VIII - The Last Jedi",
+     "Year":"2017",
+     "imdbID":"tt2527336",
+     "Type":"movie",
+     "Poster":"https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg"
+  },
+  {
+     "Title":"Star Trek",
+     "Year":"2009",
+     "imdbID":"tt0796366",
+     "Type":"movie",
+     "Poster":"https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg"
+  },      {
+    "Title":"Scream Queens",
+    "Year":"2015–2016",
+    "imdbID":"tt4145384",
+    "Type":"series",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BYzIwYjkwYTgtNzlhOC00MGZhLWI0OTMtZTAwOTIyNGM4MTJjXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Scream: The TV Series",
+    "Year":"2015–2019",
+    "imdbID":"tt3921180",
+    "Type":"series",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BYzAwOWFmYTMtNmMyNC00NTBlLWFlMzMtNzFkYjFmYjU4YWFmXkEyXkFqcGdeQXVyNjc3ODA5NjA@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Hush! Girls Don't Scream",
+    "Year":"2013",
+    "imdbID":"tt2440036",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BNzA1Nzk2Mzc0Nl5BMl5BanBnXkFtZTgwNDQzNzc2MDE@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Scream of Fear",
+    "Year":"1961",
+    "imdbID":"tt0055505",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BM2ZlODNiODAtMzJlMS00YjA5LTk3NjYtYmRlZTQ1MmU4ZWIxL2ltYWdlXkEyXkFqcGdeQXVyMDM0NzcxMQ@@._V1_SX300.jpg"
+ },
+ {
+    "Title":"The Avengers",
+    "Year":"2012",
+    "imdbID":"tt0848228",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Avengers: Endgame",
+    "Year":"2019",
+    "imdbID":"tt4154796",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Avengers: Infinity War",
+    "Year":"2018",
+    "imdbID":"tt4154756",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Avengers: Age of Ultron",
+    "Year":"2015",
+    "imdbID":"tt2395427",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
+ },
+ {
+    "Title":"The Avengers",
+    "Year":"1998",
+    "imdbID":"tt0118661",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+ },
+ {
+    "Title":"The Avengers: Earth's Mightiest Heroes",
+    "Year":"2010–2012",
+    "imdbID":"tt1626038",
+    "Type":"series",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Ultimate Avengers: The Movie",
+    "Year":"2006",
+    "imdbID":"tt0491703",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Ultimate Avengers II",
+    "Year":"2006",
+    "imdbID":"tt0803093",
+    "Type":"movie",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+ },
+ {
+    "Title":"The Avengers",
+    "Year":"1961–1969",
+    "imdbID":"tt0054518",
+    "Type":"series",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+ },
+ {
+    "Title":"Avengers Assemble",
+    "Year":"2012–2019",
+    "imdbID":"tt2455546",
+    "Type":"series",
+    "Poster":"https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg"
+ },        
+{
+ "Title":"Marvel Studios: Legends",
+ "Year":"2021–",
+ "imdbID":"tt13650480",
+ "Type":"series",
+ "Poster":"https://m.media-amazon.com/images/M/MV5BMzdiNGVlZGYtMGY1Ni00OGU1LTlmYzEtZDBjYjk3OGM3YTNkXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_SX300.jpg"
+},
+{
+ "Title":"Marvel Studios: Assembled",
+ "Year":"2021–",
+ "imdbID":"tt14094206",
+ "Type":"series",
+ "Poster":"https://m.media-amazon.com/images/M/MV5BNWMyNWYyMmYtZjNiZi00MzFmLTg2MjYtYWEzZWY1MzBhY2I2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+},
+{
+ "Title":"Lego Marvel Super Heroes",
+ "Year":"2013",
+ "imdbID":"tt2620204",
+ "Type":"game",
+ "Poster":"https://m.media-amazon.com/images/M/MV5BOTA5ODA2NTI2M15BMl5BanBnXkFtZTgwNTcxMzU1MDE@._V1_SX300.jpg"
+}
+],
+    
+    "totalResults":"102",
+    "Response":"True"
+ }
